@@ -1,0 +1,11 @@
+Location,Signal_Strength_dBm,Ping_ms,Speed_Mbps,Packet_Loss_Percent,Status
+Classroom,-45,25,45,0,Good
+Computer Lab,-58,45,35,1,Good
+Library,-67,80,25,3,Weak
+Corridor,-82,180,8,12,Dead Zone
+Canteen,-72,110,15,6,Weak
+Seminar Hall,-52,35,40,0,Good
+Block A Entrance,-76,125,12,7,Weak
+Block B Corridor,-85,220,5,18,Dead Zone
+Staff Room,-61,55,30,2,Good
+Parking Area,-88,250,3,22,Dead Zone
